@@ -54,13 +54,13 @@ career-profile:
             
 education: 
 
-     degree: Diplomado en Gerencia
+    - degree: Diplomado en Gerencia
       university: Donal School of Business
       time: 2019 - 2020
     - degree: Especializacion en Big Data & Machine Learning
       university: BSGROUP
       time: 2018 - 2018
-     - degree: Ingeniero Mecatrónico
+    - degree: Ingeniero Mecatrónico
       university: Pontificia Universidad Catolica del Perú
       time: 2009 - 2015
   
