@@ -3,80 +3,65 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Renzo Morales
+    tagline: Ingeniero Mecatrónico
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: renzo.morales.n@gmail.com
+    phone: +1 587.306.9730
+    website: linkedin.com/in/rrmoralesn  #Edit your custom URL #do not add http://
+   
+   #linkedin: alandoe
+   # github: sharu725
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
+        level: IETLS (7.0) Advanced
 
       - idiom: Spanish
-        level: Professional
-
+        level: Native
+      
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
+      #- item: Cooking
+       # link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
+      Ingeniero Mecatrónico con amplia experiencia en el sector de manufactura, relacionada a equipos mineros y en la implementación de proyectos electro-mecánicos.
+      Cuento con una especialización en Big Data & Machine learning y un diplomado en gerencia en Donald School of Business, Alberta, Canadá.
+      Competencia para la ejecución y puesta en marcha de proyectos en diferentes ámbitos industriales, diagnósticos empresariales, diseño de planes de negocio,
+            
+education: 
+
+     - degree: Diplomado en Gerencia
+      university: Donal School of Business
+      time: 2019 - 2020
+    - degree: Especializacion en Big Data & Machine Learning
+      university: BSGROUP
+      time: 2018 - 2018
+     - degree: Ingeniero Mecatronico
+      university: Pontificia Universidad Catolica del Perú
+      time: 2009 - 2015
+  
+  experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
