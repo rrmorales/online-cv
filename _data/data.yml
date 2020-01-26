@@ -45,9 +45,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ingeniero Mecatrónico con amplia experiencia en el sector de manufactura, relacionada a equipos mineros y en la implementación de proyectos electro-mecánicos.
-      Cuento con una especialización en Big Data & Machine learning y un diplomado en gerencia en Donald School of Business, Alberta, Canadá.
-      Competencia para la ejecución y puesta en marcha de proyectos en diferentes ámbitos industriales, diagnósticos empresariales, diseño de planes de negocio,
+      Ingeniero Mecatrónico con amplia experiencia en el sector de manufactura,
+      relacionada a equipos mineros y en la implementación de proyectos electro-mecánicos.
+      Cuento con una especialización en Big Data & Machine learning y un diplomado en gerencia
+      en Donald School of Business, Alberta, Canadá.
+      Competencia para la ejecución y puesta en marcha de proyectos en diferentes ámbitos industriales,
+      diagnósticos empresariales, diseño de planes de negocio,
             
 education: 
 
@@ -57,7 +60,7 @@ education:
     - degree: Especializacion en Big Data & Machine Learning
       university: BSGROUP
       time: 2018 - 2018
-     - degree: Ingeniero Mecatronico
+     - degree: Ingeniero Mecatrónico
       university: Pontificia Universidad Catolica del Perú
       time: 2009 - 2015
   
